@@ -2,6 +2,8 @@
 
 ![alt tag](https://github.com/lpercivalDEV/rock-paper-scissors/blob/master/rpsPreview.png)
 
+### Live Demo: https://lpercivaldev.github.io/rock-paper-scissors/
+
 ## How It's Made:
 
 **Tech used:** HTML, CSS, JavaScript, jQuery
